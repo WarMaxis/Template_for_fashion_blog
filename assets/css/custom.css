@@ -15,6 +15,43 @@ h6, .h6 {
 	font-family: 'Open Sans', sans-serif;
 }
 
+.navbar {
+	max-width: 970px;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+	padding: 0;
+}
+
+.navbar-default {
+	background-color: #ffffff;
+	border: 0;
+}
+
+.navbar-nav {
+	float: right;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #1d1d1b;
+	opacity: 0.7;
+	padding: 0;
+}
+
+.navbar-default .navbar-nav li {
+	margin-right: 20px;
+}
+
+.navbar-default .navbar-nav li:last-child {
+	margin-right: 0;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+	color: #cd5d5c;
+	text-decoration: underline;
+}
+
 .blog-footer2 {
 	background-color: #cd5d5c;
 	color: #ffffff;
