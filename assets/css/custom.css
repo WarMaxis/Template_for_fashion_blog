@@ -3,6 +3,48 @@
  */
 
 .blog-footer2 {
-	height: 100px;
 	background-color: #cd5d5c;
+	color: #ffffff;
+}
+
+.footer-container {
+	height: 100px;
+	display: flex;
+	align-items: center;
+}
+
+.footer-second-description {
+	margin: 0;
+	opacity: 0.5;
+}
+
+.footer-credits {
+	width: 100%; 
+}
+
+.footer-menu {
+	width: 100%;
+}
+
+.footer-menu ul {
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+
+.footer-menu ul li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+.footer-menu ul li:first-child {
+	margin-left: 0;
+}
+
+.footer-menu ul li:last-child {
+	margin-right: 0;
+}
+
+.footer-menu a {
+	color: #ffffff;
 }
