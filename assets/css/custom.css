@@ -21,9 +21,14 @@ h6, .h6 {
 }
 
 .footer-container {
-	height: 100px;
+	height: 120px;
 	display: flex;
 	align-items: center;
+	max-width: 970px;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .footer-second-description {
