@@ -2,6 +2,19 @@
  * Custom CSS
  */
 
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+	font-family: 'Open Sans', sans-serif;
+}
+
 .blog-footer2 {
 	background-color: #cd5d5c;
 	color: #ffffff;
@@ -16,6 +29,7 @@
 .footer-second-description {
 	margin: 0;
 	opacity: 0.5;
+	font-size: 13px;
 }
 
 .footer-credits {
