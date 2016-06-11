@@ -103,3 +103,41 @@ h6, .h6 {
 .footer-menu a {
 	color: #ffffff;
 }
+
+.category-menu {
+	max-width: 970px;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 70px;
+}
+
+.category-list {
+	display: flex;
+	justify-content: center;
+}
+
+.category-list a {
+	color: #1d1d1b;
+}
+
+.category-list a:hover {
+	color: #cd5d5c;
+	text-decoration: underline;
+}
+
+.category-list li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.category-border {
+	width: 100px;
+	margin-top: 14px;
+	margin-right: auto;
+	margin-left: auto;
+	border-bottom: 2px;
+	border-bottom-color: #cd5d5c;
+	border-bottom-style: solid;
+}
