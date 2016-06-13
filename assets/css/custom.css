@@ -147,7 +147,7 @@ h6, .h6 {
 	margin-top: 14px;
 	margin-right: auto;
 	margin-left: auto;
-	border-bottom: 2px;
+	border-bottom: 1px;
 	border-bottom-color: #cd5d5c;
 	border-bottom-style: solid;
 }
@@ -190,4 +190,24 @@ h6, .h6 {
 .profile-description {
 	text-align: center;
 	color: #000000;
+}
+
+.social-icons.sidebar {
+	width: 98px;
+	float: none;
+    position: inherit;
+	font-size: 20px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15px;
+}
+
+.instagram-sidebar {
+	margin-top: 40px;
+}
+
+.category-border.sidebar {
+	width: 50px;
+	margin-top: -4px;
 }
