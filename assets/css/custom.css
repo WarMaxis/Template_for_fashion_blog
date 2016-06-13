@@ -2,6 +2,8 @@
  * Custom CSS
  */
 
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,700&subset=latin-ext);
+
 body {
 	font-family: 'Open Sans', sans-serif;
 }
@@ -256,4 +258,41 @@ h6, .h6 {
 	margin-top: 50px;
 	position: relative;
 	z-index: 1001;
+	box-shadow: 0px 0px 30px -10px #0b0d0d;
+}
+
+.header-title {
+	position: absolute;
+	z-index: 1002;
+	top: 150px;
+	left: 530px;
+}
+
+.lead.blog-description {
+	color: #000000;
+	font-weight: 700;
+	margin: 0px;
+}
+
+.blog-title {
+	font-family: 'Merriweather', serif;
+	font-weight: 700;
+	color: #cd5d5c;
+	font-size: 26px;
+	width: 400px;
+	text-transform: uppercase;
+	line-height: 1.8;
+	margin-top: 0px;
+}
+
+.blog-title-border {
+	width: 134px;
+	margin-top: 14px;
+	border-bottom: 5px;
+	border-bottom-color: #cd5d5c;
+	border-bottom-style: solid;
+}
+
+.blog-header {
+	margin-bottom: 70px;
 }
