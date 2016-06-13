@@ -1,0 +1,15 @@
+/*
+ * RWD CSS
+ */
+
+@media (min-width: 768px) {
+	
+.blog-main {
+	width: 61.66666667%;
+}
+
+.blog-sidebar {
+	width: 30%;
+}
+	
+}

@@ -130,7 +130,7 @@ h6, .h6 {
 
 .category-list a:hover {
 	color: #cd5d5c;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 .category-list li {
@@ -147,7 +147,7 @@ h6, .h6 {
 	margin-top: 14px;
 	margin-right: auto;
 	margin-left: auto;
-	border-bottom: 2px;
+	border-bottom: 1px;
 	border-bottom-color: #cd5d5c;
 	border-bottom-style: solid;
 }
@@ -172,4 +172,65 @@ h6, .h6 {
 
 .social-icons a:last-child {
 	margin-right: 0px;
+}
+
+.profile-photo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.sidebar-module-inset {
+	margin-right: 0px;
+	background-color: #f9f9f9;
+}
+
+.profile-description {
+	text-align: center;
+	color: #000000;
+}
+
+.social-icons.sidebar {
+	width: 98px;
+	float: none;
+    position: inherit;
+	font-size: 20px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15px;
+}
+
+.instagram-sidebar {
+	margin-top: 40px;
+}
+
+.category-border.sidebar {
+	width: 50px;
+	margin-top: -4px;
+}
+
+.instagram-photo-row-last {
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.instagram-photo-row-first {
+	margin-top: 35px;
+}
+
+.instagram-photo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.photo-left {
+	padding-right: 0px;
+}
+
+.photo-right {
+	padding-left: 0px;
 }
