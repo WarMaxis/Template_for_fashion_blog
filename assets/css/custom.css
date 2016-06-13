@@ -195,14 +195,14 @@ h6, .h6 {
 }
 
 .social-icons.sidebar {
-	width: 98px;
 	float: none;
     position: inherit;
 	font-size: 20px;
-	display: block;
+	display: flex;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 15px;
+	justify-content: center;
 }
 
 .instagram-sidebar {
