@@ -173,3 +173,12 @@ h6, .h6 {
 .social-icons a:last-child {
 	margin-right: 0px;
 }
+
+.profile-photo {
+	display: block;
+	margin: auto;
+}
+
+.sidebar-module-inset {
+	margin-right: 0px;
+}
