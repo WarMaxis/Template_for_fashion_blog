@@ -234,3 +234,13 @@ h6, .h6 {
 .photo-right {
 	padding-left: 0px;
 }
+
+.header-photo {
+	width: 78%;
+	height: 350px;
+	background-image: url(../images/header-post.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 50px;
+}
