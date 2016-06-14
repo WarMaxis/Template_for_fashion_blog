@@ -61,6 +61,24 @@
 		border-bottom-style: solid;
 		border-bottom-color: #e7e7e7;
 	}
+
+	.navbar-toggle:focus {
+		background-color: #ffffff !important;
+		border-color: #cd5d5c !important;
+	}
+	
+	.navbar-toggle:hover {
+		background-color: #ffffff !important;
+		border-color: #cd5d5c !important;
+	}
+	
+	.navbar-toggle .icon-bar {
+		height: 1px !important;
+	}
+	
+	.navbar-toggle .icon-bar + .icon-bar {
+    margin-top: 6px !important;
+	}
 	
 }
 
