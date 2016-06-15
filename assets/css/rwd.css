@@ -77,16 +77,24 @@
 	}
 	
 	.navbar-toggle .icon-bar + .icon-bar {
-    margin-top: 6px !important;
+    	margin-top: 6px !important;
 	}
 	
 	.form-input {
-	width: 85%;
+		width: 85%;
 	}
 	
 	.subpages-article {
-	margin-top: 60px;
-}
+		margin-top: 60px;
+	}
+	
+	.advertisement-photo {
+		width: 50%;
+		position: static;
+		margin-right: auto;
+		margin-left: auto;
+		display: block;
+	}
 	
 }
 

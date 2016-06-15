@@ -452,3 +452,38 @@ h6, .h6 {
 .container.categories {
 	margin-top: 70px;
 }
+
+.post-photo {
+	width: 100%;
+	position: relative;
+	z-index: 1003;
+}
+
+.blog-header.post {
+	padding-top: 0px;
+	margin-bottom: 0px;
+}
+
+.in-post {
+	margin: 40px 0 40px 0;
+}
+
+.in-post2 {
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.container.categories.post {
+	margin-bottom: 100px;
+}
+
+.advertisement-photo {
+	width: calc(100% + 15px);
+	position: relative;
+	right: 15px;
+	margin-bottom: 25px;
+}
+
+.blog-post.all {
+	font-size: 16px;
+}
