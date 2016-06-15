@@ -96,6 +96,10 @@
 		display: block;
 	}
 	
+	.col-sm-4.middle {
+		padding: 0px;
+	}
+	
 }
 
 @media (max-width: 992px) {

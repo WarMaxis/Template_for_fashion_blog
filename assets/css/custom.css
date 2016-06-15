@@ -487,3 +487,25 @@ h6, .h6 {
 .blog-post.all {
 	font-size: 16px;
 }
+
+.blog-post-title.read-also {
+	font-size: 15px;
+	margin-top: 0px;
+}
+
+.col-sm-4.first {
+	padding: 0px;
+}
+
+.col-sm-4.last {
+	padding: 0px;
+}
+
+.blog-post-meta.more-posts-title {
+	font-size: 12px;
+}
+
+.more-posts {
+	margin-bottom: 100px;
+	margin-top: 30px;
+}
