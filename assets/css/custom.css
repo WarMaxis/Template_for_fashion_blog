@@ -444,3 +444,7 @@ h6, .h6 {
 .form-button:focus {
 	outline-color: #ffffff;
 }
+
+.active-link a {
+	color: #cd5d5c !important;
+}
