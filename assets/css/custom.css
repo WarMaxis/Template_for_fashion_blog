@@ -448,3 +448,7 @@ h6, .h6 {
 .active-link a {
 	color: #cd5d5c !important;
 }
+
+.container.categories {
+	margin-top: 30px;
+}
