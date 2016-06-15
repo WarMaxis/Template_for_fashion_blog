@@ -80,6 +80,10 @@
     margin-top: 6px !important;
 	}
 	
+	.form-input {
+	width: 85%;
+	}
+	
 }
 
 @media (max-width: 992px) {

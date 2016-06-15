@@ -407,3 +407,40 @@ h6, .h6 {
 	font-size: 16px;
 	line-height: 2.5;
 }
+
+.profile-description.subpage a {
+	color: #cd5d5c;
+}
+
+.contact-form {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.form-input-title {
+	margin-top: 10px;
+}
+
+.form-input {
+	width: 60%;
+}
+
+.form-input:focus {
+	outline-color: #cd5d5c;
+}
+
+.form-button {
+	margin-top: 20px;
+	width: 150px;
+	height: 35px;
+	background-color: #cd5d5c;
+	color: #ffffff;
+	font-size: 16px;
+	border-color: #cd5d5c;
+	border-radius: 4px;
+	border-width: 0px;
+}
+
+.form-button:focus {
+	outline-color: #ffffff;
+}
