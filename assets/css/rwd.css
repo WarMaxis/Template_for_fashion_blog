@@ -104,6 +104,11 @@
 		margin-bottom: 0px;
 	}
 	
+	#disqus_thread {
+		margin-top: 0px;
+		margin-bottom: 60px;
+	}
+	
 }
 
 @media (max-width: 992px) {
