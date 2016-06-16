@@ -77,7 +77,31 @@
 	}
 	
 	.navbar-toggle .icon-bar + .icon-bar {
-    margin-top: 6px !important;
+    	margin-top: 6px !important;
+	}
+	
+	.form-input {
+		width: 85%;
+	}
+	
+	.subpages-article {
+		margin-top: 60px;
+	}
+	
+	.advertisement-photo {
+		width: 50%;
+		position: static;
+		margin-right: auto;
+		margin-left: auto;
+		display: block;
+	}
+	
+	.col-sm-4.middle {
+		padding: 0px;
+	}
+	
+	.container.categories.post {
+		margin-bottom: 0px;
 	}
 	
 }
